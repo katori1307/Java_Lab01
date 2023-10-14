@@ -2,7 +2,7 @@ package Lab01;
 
 import java.util.Scanner;
 
-public class Excercise09 {
+public class Exercise09 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an integer (n > 6): ");
